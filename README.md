@@ -1,0 +1,2 @@
+# MsyialMotd
+Bukkit Motd
