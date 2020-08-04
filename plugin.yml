@@ -1,0 +1,16 @@
+name: MsyialMotd
+version: 1.0
+description: 'Just Motd!'
+author: Msyial
+main: me.msyial.motd.MsyialMotd
+
+commands:
+  motdreload:
+    description: Reload Motd from Config.
+    permission: motd.reload
+    usage: Incorrect Usage. Use /motdreload
+
+permissions:
+  dmotd.reload:
+    description: Allows use of /motdreload
+    default: op
